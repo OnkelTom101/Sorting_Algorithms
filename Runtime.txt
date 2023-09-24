@@ -1,0 +1,14 @@
+
+ Runtime of biggest_number_list: 3.2033009999999917e-06
+ Biggest number of biggest_number_list: 924
+ List of biggest_number_list: [924, 47, 577, 279, 461, 116, 433, 904, 626, 760, 80, 781, 10, 230, 588, 5, 82, 284, 411, 759]
+
+ Runtime of biggest_number: 1.439349999999973e-06
+ Biggest number of biggest_number: 964
+ List of biggest_number: [964, 709, 655, 437, 280, 660, 810, 586, 744, 79, 354, 354, 280, 819, 795, 501, 463, 778, 762, 688]
+ 
+ Runtime of biggest_number_list: 9.375e-05
+ Biggest number of biggest_number_list: 990
+ 
+ Runtime of biggest_number: 3.125e-05
+ Biggest number of biggest_number: 1000
