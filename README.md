@@ -8,3 +8,8 @@ educational reasons. Feel free to contribute!
 
 * Sorting Biggest Number with a list (Sorting_biggest_Number_list.py)
 * Sorting Biggest Number "directly" (Sorting_biggest_Number.py)
+
+# Experimental
+
+* Basic sorting Algorithm (Sorting_Alogrithm_Basic.py) !WARNING! sorce-code
+doesn't work
